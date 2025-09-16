@@ -1,4 +1,5 @@
-# Brand Perception Classification with Random Forest  
+# Classification Brand Perception Using Random Forest: Brand Preference (BP), Brand Loyalty (BL) and, Brand Trust (BT)
+Brands enable strategy development, competitive advantage, and audience connection in modern society. This study addresses gaps in Brand Preference (BP), Brand Loyalty (BL), and Brand Trust (BT) among university students using Machine Learning (ML), particularly Random Forest (RF) Classification. Data from Ankara Hacı Bayram Veli University (Spring 2023/2024) is analyzed with decision tree classifiers. A meta-predictor reduces overfitting, while the ’Brand Perception Scale’, with 22 independent variables ( ), assesses BP, BL, and BT. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
