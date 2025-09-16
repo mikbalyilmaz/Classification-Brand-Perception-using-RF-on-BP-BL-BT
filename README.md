@@ -1,5 +1,4 @@
-# Classification Brand Perception Using Random Forest: Brand Preference (BP), Brand Loyalty (BL) and, Brand Trust (BT)
-Brands enable strategy development, competitive advantage, and audience connection in modern society. This study addresses gaps in Brand Preference (BP), Brand Loyalty (BL), and Brand Trust (BT) among university students using Machine Learning (ML), particularly Random Forest (RF) Classification. Data from Ankara Hacı Bayram Veli University (Spring 2023/2024) is analyzed with decision tree classifiers. A meta-predictor reduces overfitting, while the ’Brand Perception Scale’, with 22 independent variables ( ), assesses BP, BL, and BT. 
+# Classification Brand Perception Using Random Forest: Brand Preference (BP), Brand Loyalty (BL) and, Brand Trust (BT) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -9,9 +8,7 @@ Brands enable strategy development, competitive advantage, and audience connecti
 </p>  
 
 ## About the Project  
-This repository contains the code and resources from my research paper *"Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust"* presented at **IDSSC’24** and published in the Proceedings Book.  
-
-The study investigates how university students’ **brand preference, loyalty, and trust** can be modeled through **Random Forest classification**, addressing class imbalance with **SMOTE**. The dataset includes 22 independent variables, such as demographics, income, fashion, design, and social media engagement.  
+Brands enable strategy development, competitive advantage, and audience connection in modern society. This repository contains the code and resources from my research paper “Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust” presented at IDSSC’24 and published in the Proceedings Book. The study analyzes data from Ankara Hacı Bayram Veli University (Spring 2023/2024) to investigate how university students’ brand preference, loyalty, and trust can be modeled using Random Forest classification and decision tree classifiers, supported by a meta-predictor to reduce overfitting. Addressing class imbalance with SMOTE, the research employs the Brand Perception Scale with 22 independent variables—including demographics, income, fashion, design, and social media engagement—to assess BP, BL, and BT.
 
 ## 🔍 Key Highlights  
 - **Algorithm:** Random Forest (multi-class classification)  
