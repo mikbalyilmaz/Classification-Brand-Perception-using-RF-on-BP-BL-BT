@@ -40,11 +40,22 @@ Decision trees, feature importance plots, confusion matrices, and ROC curves wer
 ## Citation  
 If you use this repository, please cite the paper:  
 
-**Yılmaz, M. İ., Yıldız, Ö., & Gökmen, Ş. (2024).**  
-*Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust.*  
-In **Proceedings of the International Data Science and Statistics Conference (IDSSC’24)**,  
-Turkish Statistical Association, Ankara Hacı Bayram Veli University.  
-ISBN: 978-625-95613-0-1  
+> Yılmaz, M. İ., Yıldız, Ö., & Gökmen, Ş. (2024). *Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust.* In Proceedings of the International Data Science and Statistics Conference (IDSSC’24). Turkish Statistical Association, Ankara Hacı Bayram Veli University. ISBN: 978-625-95613-0-1  
+
+**APA citation:**  
+Yılmaz, M. İ., Yıldız, Ö., & Gökmen, Ş. (2024). *Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust.* In Proceedings of the International Data Science and Statistics Conference (IDSSC’24). Turkish Statistical Association, Ankara Hacı Bayram Veli University. ISBN: 978-625-95613-0-1  
+
+**BibTeX:**  
+```bibtex
+@inproceedings{yilmaz2024brand,
+  author    = {Yılmaz, Muhammed İkbal and Yıldız, Özgür and Gökmen, Şenol},
+  title     = {Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust},
+  booktitle = {Proceedings of the International Data Science and Statistics Conference (IDSSC'24)},
+  year      = {2024},
+  publisher = {Turkish Statistical Association, Ankara Hacı Bayram Veli University},
+  isbn      = {978-625-95613-0-1}
+}
+
 
 ## License  
 This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.  
