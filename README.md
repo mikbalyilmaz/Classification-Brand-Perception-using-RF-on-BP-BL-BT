@@ -28,13 +28,6 @@ Decision trees and feature importance plots were generated to illustrate how ind
   <img src="docs/decision_tree_example.png" alt="Decision Tree Example" width="500"/>
 </p>  
 
-## Repository Structure  
-├── data/ # (anonymized dataset or instructions to access)
-├── notebooks/ # Jupyter notebooks with analysis
-├── code/ # Python scripts
-├── LICENSE # CC BY-NC-ND 4.0 License
-└── README.md # Project documentation
-
 ## Citation  
 If you use this repository, please cite the paper:  
 
