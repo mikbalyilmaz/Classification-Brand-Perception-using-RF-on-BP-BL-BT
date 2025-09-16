@@ -22,11 +22,23 @@ Brands enable strategy development, competitive advantage, and audience connecti
   - Trust is influenced by online shopping, recognizability, and income  
 
 ## Visualizations  
-Decision trees and feature importance plots were generated to illustrate how independent variables shape **brand perception constructs**.  
+
+Decision trees, feature importance plots, confusion matrices, and ROC curves were generated to illustrate how independent variables shape **brand perception constructs (BP, BL, BT)**.  
 
 <p align="center">
   <img src="docs/decision_tree_example.png" alt="Decision Tree Example" width="500"/>
 </p>  
+
+### Confusion Matrices  
+<p align="center">
+  <img src="docs/confusion_matrices.png" alt="Confusion Matrices for BP, BL, BT" width="800"/>
+</p>  
+
+### ROC Curves  
+<p align="center">
+  <img src="docs/roc_curves.png" alt="ROC Curves for BP, BL, BT" width="800"/>
+</p>  
+ 
 
 ## Citation  
 If you use this repository, please cite the paper:  
