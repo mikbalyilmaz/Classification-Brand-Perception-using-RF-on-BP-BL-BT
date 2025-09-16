@@ -25,19 +25,21 @@ Brands enable strategy development, competitive advantage, and audience connecti
 
 Decision trees, feature importance plots, confusion matrices, and ROC curves were generated to illustrate how independent variables shape **brand perception constructs (BP, BL, BT)**.  
 
+### Decision Tree Example  
 <p align="center">
-  <img src="docs/decision_tree_example.png" alt="Decision Tree Example" width="500"/>
+  <img src="decision_tree_example.png" alt="Decision Tree Example" width="500"/>
 </p>  
 
 ### Confusion Matrices  
 <p align="center">
-  <img src="docs/confusion_matrices.png" alt="Confusion Matrices for BP, BL, BT" width="800"/>
+  <img src="confusion_matrices.png" alt="Confusion Matrices for BP, BL, BT" width="800"/>
 </p>  
 
 ### ROC Curves  
 <p align="center">
-  <img src="docs/roc_curves.png" alt="ROC Curves for BP, BL, BT" width="800"/>
+  <img src="roc_curves.png" alt="ROC Curves for BP, BL, BT" width="800"/>
 </p>  
+ 
  
 
 ## Citation  
