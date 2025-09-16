@@ -10,7 +10,7 @@
 ## About the Project  
 Brands enable strategy development, competitive advantage, and audience connection in modern society. This repository contains the code and resources from my research paper “Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust” presented at IDSSC’24 and published in the Proceedings Book. The study analyzes data from Ankara Hacı Bayram Veli University (Spring 2023/2024) to investigate how university students’ brand preference, loyalty, and trust can be modeled using Random Forest classification and decision tree classifiers, supported by a meta-predictor to reduce overfitting. Addressing class imbalance with SMOTE, the research employs the Brand Perception Scale with 22 independent variables—including demographics, income, fashion, design, and social media engagement—to assess BP, BL, and BT.
 
-## 🔍 Key Highlights  
+## Key Highlights  
 - **Algorithm:** Random Forest (multi-class classification)  
 - **Data Handling:** Class imbalance solved with SMOTE  
 - **Sample Size:** 407 undergraduate students  
