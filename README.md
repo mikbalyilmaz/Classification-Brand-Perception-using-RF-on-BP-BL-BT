@@ -48,7 +48,7 @@ Yılmaz, M. İ., Yıldız, Ö., & Gökmen, Ş. (2024). *Classification of Brand 
 **BibTeX:**  
 ```bibtex
 @inproceedings{yilmaz2024brand,
-  author    = {Yılmaz, Muhammed İkbal and Yıldız, Özgür and Gökmen, Şenol},
+  author    = {Yılmaz, Muhammed İkbal and Yıldız, Özge and Gökmen, Şahika},
   title     = {Classification of Brand Perception Using Random Forest: Brand Preference, Brand Loyalty, and Brand Trust},
   booktitle = {Proceedings of the International Data Science and Statistics Conference (IDSSC'24)},
   year      = {2024},
